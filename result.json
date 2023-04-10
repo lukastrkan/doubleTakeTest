@@ -1,0 +1,352 @@
+{
+  "1": {
+    "compreface_valid": 125,
+    "compreface_percent": 81.69934640522875,
+    "deepstack_valid": 85,
+    "deepstack_percent": 55.55555555555556,
+    "total": 153
+  },
+  "2": {
+    "compreface_valid": 144,
+    "compreface_percent": 94.11764705882352,
+    "deepstack_valid": 72,
+    "deepstack_percent": 47.05882352941176,
+    "total": 153
+  },
+  "3": {
+    "compreface_valid": 145,
+    "compreface_percent": 94.77124183006535,
+    "deepstack_valid": 94,
+    "deepstack_percent": 61.43790849673203,
+    "total": 153
+  },
+  "4": {
+    "compreface_valid": 146,
+    "compreface_percent": 95.42483660130719,
+    "deepstack_valid": 77,
+    "deepstack_percent": 50.326797385620914,
+    "total": 153
+  },
+  "5": {
+    "compreface_valid": 147,
+    "compreface_percent": 96.07843137254902,
+    "deepstack_valid": 79,
+    "deepstack_percent": 51.633986928104584,
+    "total": 153
+  },
+  "6": {
+    "compreface_valid": 147,
+    "compreface_percent": 96.07843137254902,
+    "deepstack_valid": 69,
+    "deepstack_percent": 45.09803921568628,
+    "total": 153
+  },
+  "7": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 69,
+    "deepstack_percent": 45.09803921568628,
+    "total": 153
+  },
+  "8": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 82,
+    "deepstack_percent": 53.59477124183007,
+    "total": 153
+  },
+  "9": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 81,
+    "deepstack_percent": 52.94117647058824,
+    "total": 153
+  },
+  "10": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 88,
+    "deepstack_percent": 57.51633986928104,
+    "total": 153
+  },
+  "11": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 74,
+    "deepstack_percent": 48.36601307189542,
+    "total": 153
+  },
+  "12": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 68,
+    "deepstack_percent": 44.44444444444444,
+    "total": 153
+  },
+  "13": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 72,
+    "deepstack_percent": 47.05882352941176,
+    "total": 153
+  },
+  "14": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 75,
+    "deepstack_percent": 49.01960784313725,
+    "total": 153
+  },
+  "15": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 74,
+    "deepstack_percent": 48.36601307189542,
+    "total": 153
+  },
+  "16": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 64,
+    "deepstack_percent": 41.830065359477125,
+    "total": 153
+  },
+  "17": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 95,
+    "deepstack_percent": 62.091503267973856,
+    "total": 153
+  },
+  "18": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 79,
+    "deepstack_percent": 51.633986928104584,
+    "total": 153
+  },
+  "19": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 74,
+    "deepstack_percent": 48.36601307189542,
+    "total": 153
+  },
+  "20": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 88,
+    "deepstack_percent": 57.51633986928104,
+    "total": 153
+  },
+  "21": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 77,
+    "deepstack_percent": 50.326797385620914,
+    "total": 153
+  },
+  "22": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 64,
+    "deepstack_percent": 41.830065359477125,
+    "total": 153
+  },
+  "23": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 69,
+    "deepstack_percent": 45.09803921568628,
+    "total": 153
+  },
+  "24": {
+    "compreface_valid": 148,
+    "compreface_percent": 96.73202614379085,
+    "deepstack_valid": 89,
+    "deepstack_percent": 58.16993464052288,
+    "total": 153
+  },
+  "25": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 65,
+    "deepstack_percent": 42.48366013071895,
+    "total": 153
+  },
+  "26": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 77,
+    "deepstack_percent": 50.326797385620914,
+    "total": 153
+  },
+  "27": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 69,
+    "deepstack_percent": 45.09803921568628,
+    "total": 153
+  },
+  "28": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 80,
+    "deepstack_percent": 52.28758169934641,
+    "total": 153
+  },
+  "29": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 77,
+    "deepstack_percent": 50.326797385620914,
+    "total": 153
+  },
+  "30": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 68,
+    "deepstack_percent": 44.44444444444444,
+    "total": 153
+  },
+  "31": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 73,
+    "deepstack_percent": 47.712418300653596,
+    "total": 153
+  },
+  "32": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 74,
+    "deepstack_percent": 48.36601307189542,
+    "total": 153
+  },
+  "33": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 62,
+    "deepstack_percent": 40.52287581699346,
+    "total": 153
+  },
+  "34": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 77,
+    "deepstack_percent": 50.326797385620914,
+    "total": 153
+  },
+  "35": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 79,
+    "deepstack_percent": 51.633986928104584,
+    "total": 153
+  },
+  "36": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 65,
+    "deepstack_percent": 42.48366013071895,
+    "total": 153
+  },
+  "37": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 83,
+    "deepstack_percent": 54.248366013071895,
+    "total": 153
+  },
+  "38": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 59,
+    "deepstack_percent": 38.56209150326798,
+    "total": 153
+  },
+  "39": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 70,
+    "deepstack_percent": 45.751633986928105,
+    "total": 153
+  },
+  "40": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 69,
+    "deepstack_percent": 45.09803921568628,
+    "total": 153
+  },
+  "41": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 78,
+    "deepstack_percent": 50.98039215686274,
+    "total": 153
+  },
+  "42": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 73,
+    "deepstack_percent": 47.712418300653596,
+    "total": 153
+  },
+  "43": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 43,
+    "deepstack_percent": 28.104575163398692,
+    "total": 153
+  },
+  "44": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 68,
+    "deepstack_percent": 44.44444444444444,
+    "total": 153
+  },
+  "45": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 85,
+    "deepstack_percent": 55.55555555555556,
+    "total": 153
+  },
+  "46": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 52,
+    "deepstack_percent": 33.98692810457516,
+    "total": 153
+  },
+  "47": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 78,
+    "deepstack_percent": 50.98039215686274,
+    "total": 153
+  },
+  "48": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 65,
+    "deepstack_percent": 42.48366013071895,
+    "total": 153
+  },
+  "49": {
+    "compreface_valid": 150,
+    "compreface_percent": 98.0392156862745,
+    "deepstack_valid": 74,
+    "deepstack_percent": 48.36601307189542,
+    "total": 153
+  },
+  "50": {
+    "compreface_valid": 149,
+    "compreface_percent": 97.38562091503267,
+    "deepstack_valid": 57,
+    "deepstack_percent": 37.254901960784316,
+    "total": 153
+  }
+}
